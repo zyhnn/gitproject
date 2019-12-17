@@ -10,6 +10,7 @@ public class GitprojectApplication {
         SpringApplication.run(GitprojectApplication.class, args);
         System.out.println();
         System.out.println();
+        System.out.println("dev");
     }
 
 }
