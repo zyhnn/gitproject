@@ -15,6 +15,7 @@ public class GitprojectApplication {
         System.out.println("");
         System.out.println("github update");
         System.out.println("idea 修改 update");
+        System.out.println("你好啊，美女");
     }
 
 }
